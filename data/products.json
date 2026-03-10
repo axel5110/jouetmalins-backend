@@ -1,0 +1,42 @@
+[
+  {
+    "id": "p1",
+    "ean": "3017620422003",
+    "name": "Nutella 400 g",
+    "brand": "Ferrero",
+    "category": "Pâtes à tartiner",
+    "quantity": "400 g"
+  },
+  {
+    "id": "p2",
+    "ean": "7622210449283",
+    "name": "Oreo Original 154 g",
+    "brand": "Oreo",
+    "category": "Biscuits",
+    "quantity": "154 g"
+  },
+  {
+    "id": "p3",
+    "ean": "5000159484695",
+    "name": "Coca-Cola 1,75 L",
+    "brand": "Coca-Cola",
+    "category": "Boissons",
+    "quantity": "1,75 L"
+  },
+  {
+    "id": "p4",
+    "ean": "3270190207904",
+    "name": "Lait demi-écrémé 1 L",
+    "brand": "Carrefour Classic'",
+    "category": "Lait",
+    "quantity": "1 L"
+  },
+  {
+    "id": "p5",
+    "ean": "3560070463176",
+    "name": "Pâtes spaghetti 500 g",
+    "brand": "Auchan",
+    "category": "Pâtes",
+    "quantity": "500 g"
+  }
+]
